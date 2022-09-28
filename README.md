@@ -29,6 +29,12 @@ Too hard to navigate as there are many tabs/links.
 
 It doesn’t tell me what courses I should take next semester or how many free electives I can take. (There is an Academic Planner but it isn't help and does the minimum. Stakeholder usually seek guidance from academic advisors rather than the degree progress report or academic planner)
 
+### Dan Lu
+
+#### Goals
+
+#### Frustrations
+
 ## Product Vision Statement
 
 See instructions. Delete this line and place your Product Vision Statement here.
