@@ -33,6 +33,14 @@ It doesn’t tell me what courses I should take next semester or how many free e
 
 #### Goals
 
+View outstanding degree requirements in an easy-to-understand summary that differentiates between different requirement types (i.e. minimum GPA requirements are different from a requirement to take a specific class, which are both different from a requirement to take a specific number of classes of a certain type, etc.).
+
+Map out the prerequisite tree for a given class, for a set of selected classes, or for an entire program of study.
+
+Be able to add and remove majors and minors to see progress towards a major or minor a student is considering.
+
+Plan which courses a student will take each semester to allow all requirements and prerequisites to be met.
+
 #### Frustrations
 
 Feature is hidden, it appears only as a small link and is not particularly easy to find.
