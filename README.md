@@ -52,7 +52,7 @@ In the summary for each requirement, distinction is not made between completed c
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Provide an interactive platform for NYU students to view and track accurate information about their degree progress and requirements to facilitate an improved understanding of college academic life.
 
 ## User Requirements
 
