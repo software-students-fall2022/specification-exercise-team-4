@@ -35,6 +35,12 @@ It doesn’t tell me what courses I should take next semester or how many free e
 
 #### Frustrations
 
+Feature is hidden, it appears only as a small link and is not particularly easy to find.
+
+Completed requirements are hidden. While this is helpful, no indication is made why these requirements are hidden.
+
+In the summary for each requirement, distinction is not made between completed classes and classes in-progress. Completed classes and classes in-progress are both marked as "taken," which is not as helpful.
+
 ## Product Vision Statement
 
 See instructions. Delete this line and place your Product Vision Statement here.
