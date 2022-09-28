@@ -56,19 +56,15 @@ Provide an interactive platform for NYU students to view and track accurate info
 
 ## User Requirements
 
-As a [type of user], I want [some goal] so that [some reason].
-
 As a student, I want to see what core courses I took so I can plan my future courses.
-
-As a student, I want to see my degree progression at a glance so I can save time and effort.
 
 As a student, I want to check my degree progress so I can ensure I am on track to graduate on-time.
 
-As a student, I want to see how many free electives I have so I can determine if I can fit in a minor.
+As a student, I want to see how many free electives I have so I can make the best use of my credits.
 
-As a student, I want course recommendations so that I can complete my degree and major.
+As a student, I want course recommendations so I know what courses will keep me on track to graduate.
 
-As a student, I want to see my credits and fulfilled requirement so that I can determine whether I can graduate in _ years.
+As a student, I want to see my credits and fulfilled requirement so I can save time and effort.
 
 As a student, I want to see what my degree progress would look like if I added or dropped a major or minor, so I can plan my course of study.
 
