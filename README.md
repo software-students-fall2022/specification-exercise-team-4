@@ -61,11 +61,19 @@ As a student, I want to see what core courses I took so I can plan my future cou
 
 As a student, I want to see my degree progression at a glance so I can save time and effort.
 
+As a student, I want to check my degree progress so I can ensure I am on track to graduate on-time.
+
 As a student, I want to see how many free electives I have so I can determine if I can fit in a minor.
 
 As a student, I want course recommendations so that I can complete my degree and major.
 
 As a student, I want to see my credits and fulfilled requirement so that I can determine whether I can graduate in _ years.
+
+As a student, I want to see what my degree progress would look like if I added or dropped a major or minor, so I can plan my course of study.
+
+As a student, I want to map out the entire prerequisite tree for courses or programs of study.
+
+As a student, I want to plan which courses I will take in which semesters to ensure all requirements and prerequisites are met.
 
 As an academic advisor, I want an informative degree progress report so that students most students can be guided without my help.
 
