@@ -6,7 +6,8 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 Harrison Douglass: <https://github.com/hpdouglass><br>
-Yvonne (Yiyi) Wu: <https://github.com/Yvonne511>
+Yvonne (Yiyi) Wu: <https://github.com/Yvonne511><br>
+Brandon Chen: <https://github.com/b-chen00>
 
 ## Stakeholders
 
