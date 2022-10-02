@@ -8,6 +8,7 @@ A little exercise to get started with the specification phase of the software de
 Harrison Douglass: <https://github.com/hpdouglass><br>
 Yvonne (Yiyi) Wu: <https://github.com/Yvonne511><br>
 Brandon Chen: <https://github.com/b-chen00>
+Ziyuan(Jerry) Chen: <https://github.com/JerryChen21>
 
 ## Stakeholders
 
@@ -96,6 +97,10 @@ As a student, I want to see what my degree progress would look like if I added o
 As a student, I want to map out the entire prerequisite tree for courses or programs of study.
 
 As a student, I want to plan which courses I will take in which semesters to ensure all requirements and prerequisites are met.
+
+As a student, I want to see the comments from those who take the courses and professors' requirements.
+
+As a student, I want to check which course is less stressful, so I can balance the stress in my study process.
 
 As an academic advisor, I want an informative degree progress report so that students most students can be guided without my help.
 
