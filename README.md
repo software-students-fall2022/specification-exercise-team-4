@@ -7,7 +7,7 @@ A little exercise to get started with the specification phase of the software de
 
 Harrison Douglass: <https://github.com/hpdouglass><br>
 Yvonne (Yiyi) Wu: <https://github.com/Yvonne511><br>
-Brandon Chen: <https://github.com/b-chen00>
+Brandon Chen: <https://github.com/b-chen00><br>
 Ziyuan(Jerry) Chen: <https://github.com/JerryChen21>
 
 ## Stakeholders
