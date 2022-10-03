@@ -106,4 +106,8 @@ As an academic advisor, I want an informative degree progress report so that stu
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![User Story: As a student, I want to check my degree progress so I can ensure I am on track to graduate on-time.](./uml1.png)
+
+![User Story: As a student, I want to see what core courses I took so I can plan my future courses.](./uml2.png)
+
+The Figma page containing our UML diagrams can be found here: <https://www.figma.com/file/lwYg4YBIge8dhsDkltuneb/UML-Diagrams-(Community)>
