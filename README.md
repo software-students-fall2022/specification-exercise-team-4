@@ -111,3 +111,11 @@ As an academic advisor, I want an informative degree progress report so that stu
 ![User Story: As a student, I want to see what core courses I took so I can plan my future courses.](./uml2.png)
 
 The Figma page containing our UML diagrams can be found here: <https://www.figma.com/file/lwYg4YBIge8dhsDkltuneb/UML-Diagrams-(Community)>
+
+## Wireframe Diagrams
+
+The Figma wireframe diagram can be found here: <https://www.figma.com/file/8ZCp54C3ZO9FDW1GG1DwcJ/Wireframe?node-id=11%3A2>
+
+## Clickable Prototype
+
+The clickable prototype can be found here: <https://www.figma.com/file/9PrKPGCmb1qGH6ixt99DDY/Degree-Progress-Report-(Team)-4?node-id=48%3A5>
