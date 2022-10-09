@@ -119,3 +119,7 @@ The Figma wireframe diagram can be found here: <https://www.figma.com/file/8ZCp5
 ## Clickable Prototype
 
 The clickable prototype can be found here: <https://www.figma.com/file/9PrKPGCmb1qGH6ixt99DDY/Degree-Progress-Report-(Team)-4?node-id=48%3A5>
+
+## Presentation
+
+The presentation of our prototype can be found here: <https://drive.google.com/file/d/1UrORoBaIk51x0M-Jx-loUJU87JMhxXao/view?usp=sharing>
